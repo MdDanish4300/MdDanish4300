@@ -17,8 +17,10 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: MdDanish4300
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: discord
+          max-rows: 1
 
       - name: Commit trophy
         run: |
