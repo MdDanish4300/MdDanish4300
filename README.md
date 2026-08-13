@@ -319,7 +319,7 @@ Focused on building practical software engineering skills through structured lea
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MdDanish4300&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Md Danish's GitHub Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MdDanish4300&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Md Danish's GitHub Trophies"/>
 
 </div>
 
