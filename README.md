@@ -291,17 +291,19 @@ Focused on building practical software engineering skills through structured lea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdDanish4300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" height="180"/>
+<a href="https://github.com/MdDanish4300">
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=MdDanish4300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" alt="Md Danish's GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdDanish4300&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
+<a href="https://github.com/MdDanish4300">
+<img height="180" src="https://streak-stats.demolab.com/?user=MdDanish4300&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="Md Danish's GitHub Streak"/>
+</a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdDanish4300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
+<a href="https://github.com/MdDanish4300">
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MdDanish4300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Md Danish's Top Languages"/>
+</a>
 
 </div>
 
@@ -311,7 +313,7 @@ Focused on building practical software engineering skills through structured lea
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MdDanish4300&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MdDanish4300&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Md Danish's GitHub Trophies"/>
 
 </div>
 
@@ -321,9 +323,10 @@ Focused on building practical software engineering skills through structured lea
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdDanish4300&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdDanish4300&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Md Danish's Contribution Graph"/>
 
 </div>
+
 
 ---
 
