@@ -23,9 +23,15 @@
 <a href="https://www.linkedin.com/in/md-danish-7b4881322">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://codolio.com/profile/mddanish">
+<img src="https://img.shields.io/badge/Codolio-Coding%20Profile-7C3AED?style=for-the-badge&logoColor=white"/>
+</a>
+
 <a href="mailto:mddanish4300@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/MdDanish4300">
 <img src="https://img.shields.io/badge/GitHub-MdDanish4300-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -385,6 +391,10 @@ Open To:
 
 <a href="https://www.linkedin.com/in/md-danish-7b4881322">
 <img src="https://img.shields.io/badge/LinkedIn-Md%20Danish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/mddanish">
+<img src="https://img.shields.io/badge/Codolio-Coding%20Profile-7C3AED?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MdDanish4300">
